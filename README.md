@@ -1,1 +1,5 @@
-# background-manager
+# 后台管理页面
+
+### 效果展示
+
+![效果展示](1.PNG)
